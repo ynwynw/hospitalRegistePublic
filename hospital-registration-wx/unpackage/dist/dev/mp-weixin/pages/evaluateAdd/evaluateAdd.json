@@ -1,7 +1,0 @@
-{
-  "navigationBarTitleText": "评价",
-  "enablePullDownRefresh": false,
-  "usingComponents": {
-    "u-textarea": "/uni_modules/uview-ui/components/u-textarea/u-textarea"
-  }
-}

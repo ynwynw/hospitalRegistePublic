@@ -1,1 +1,0 @@
-<view class="{{[setBodyClass]}}" style="{{(setBackgroundColor+bodyHeight)}}"><slot></slot></view>
